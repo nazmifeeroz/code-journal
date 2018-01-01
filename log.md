@@ -6,4 +6,6 @@
 
 **Thoughts:** I was told not to learn angularJS but for the sake of a job, I'm learning angularJS. plus it is version 1! but honestly angularJS is much more easier than reactJS. Today done all the CRUD functions in angularJS. 
 
+I used [reload](https://www.npmjs.com/package/reload) as my localhost server. it automatically reloads the webpage when i save my codes. Very useful!
+
 **Link to work:** [Classifieds App](https://github.com/nazmifeeroz/angular-classifieds)
