@@ -9,3 +9,12 @@
 I used [reload](https://www.npmjs.com/package/reload) as my localhost server. it automatically reloads the webpage when i save my codes. Very useful!
 
 **Link to work:** [Classifieds App](https://github.com/nazmifeeroz/angular-classifieds)
+
+
+### Day 2: 2 January 2018 (AngularJS)
+
+**Today's Progress**: Learn a new technique using UI-Router.
+
+**Thoughts:** Had many problems making the ui-router works. Turns out that the name has changed and the tutorial was using an outdated plugin. Initially was angular-ui-router, now its @uirouter. Lots of troubleshooting and forgot to add the stateProvider!
+
+**Link to work:** [Classifieds App](https://github.com/nazmifeeroz/angular-classifieds)
