@@ -1,54 +1,54 @@
-#Bash Terminal Shortcuts
+# Bash Terminal Shortcuts
 
-##Option/Alt + Left or Right
+## Option/Alt + Left or Right
 This shortcut allows you to move the cursor between separate words in a command line. Use Option and the left arrow to move back and use Option with the right arrow to move forward down the line.
 
-##Control + W
+## Control + W
 Using this keyboard combination will delete the word immediately before, or to the left of, the cursor.
 
-##Escape + T
+## Escape + T
 This will swap the two words that appear immediately before the cursor. So, if "this is" sits before the cursor, using Escape and T will change that to "is this."
 
-##Control + R
+## Control + R
 If you need to locate a previously used command in Terminal, use Control and R. It will open up [(reverse-i-search)`':] and allow you to find a previously used commands that you may need to access again.
 
-##Command + A
+## Command + A
 Using Command and A will take you to the end, or the far right, of the line where your cursor is.
 
-##Command +E
+## Command +E
 This shortcut is the opposite of Command and A. Command and E will take you back to the beginning, or the far left, of the line you are currently working on.
 
-##Control + C
+## Control + C
 If you need to kill what's currently running, us Control and C in Terminal to abort the current application.
 
-##Control + U
+## Control + U
 This shortcut clears the entirety of the line before the cursor. So, if you get to the end of a line and realize the whole thing is wrong, use Control and U to delete it all.
 
-##Control + K
+## Control + K
 Using Control and K will have the opposite effect as using Control and U. This will clear the line that appears after the cursor. It is helpful if you need to change or delete the latter half of a line.
 
-##Command + K
+## Command + K
 This will clear the entire Terminal screen you're working on, deleting everything. The same thing can be accomplished using Control and L or by typing "clear" into Terminal.
 
-##Control + D
+## Control + D
 This will cause you to exit the current shell in Terminal.
 
-##Control + Z
+## Control + Z
 Suspends what you are currently running in the background.
 
-##!!
+## !!
 This executes the last command entered. If you run into permission issues, try entering sudo before !!.
 
-##Control + H
+## Control + H
 Essentially the same thing as backspace, but it is useful if you want to stay anchored on the home row keys.
 
-##Top
+## Top
 Typing "top" into Terminal will display all of your active processes. Similar to what you'd get from Activity Monitor, but within Terminal. Press "Q" to quit.
 
-##History + a number
+## History + a number
 If you've lost track of a command you typed earlier, you can type "history" into Terminal to retrieve a history of your commands. However, if you want to view a specific number of past commands simply type a space then a number after history. So, "history 5" would show you the last five commands you typed.
 
-##Control + F
+## Control + F
 This shortcut moves the cursor forward to the next character on the line. It is essentially the same thing as using the right arrow key, but keeps you on the home row keys.
 
 ##Control + B
